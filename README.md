@@ -7,12 +7,6 @@
   <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300"  alt=""/>
 </p>
 
-### Skills 🔧
-*   Programming languages: Python, JAVA
-*   Frameworks: Django, Flask, Vue.js
-*   Software development and project management
-
-
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Super403/count.svg" alt="Visitors">
