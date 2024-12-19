@@ -24,7 +24,7 @@
 
 
 ## 停止更新项目（但包含 Bug 修复）
-
+- [x] **[AI辅助开发的四象限任务管理工具](https://github.com/super403/AI-four-quadrant)**  | AI辅助开发的四象限任务管理工具
 
 <table>
     <tr>
