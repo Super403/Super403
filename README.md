@@ -16,9 +16,14 @@
 
 ## 研发中
 - [ ] **[自研漏扫](https://github.com/super403)**  | 自研漏扫
+- [ ] **[实战下的目录扫描字典工具](https://github.com/super403)**  | 实战下的目录扫描字典工具
 - [ ] **[自动化渗透脚本](https://github.com/super403)**  | 自动化渗透脚本
 
-### 停止更新项目（但包含 Bug 修复）
+## 技术文章系列
+- [ ] **[重生之我在牛马棚里学挖洞系列](https://github.com/super403)**  | 重生之我在牛马棚里学挖洞系列
+
+
+## 停止更新项目（但包含 Bug 修复）
 
 
 <table>
@@ -31,13 +36,6 @@
         </td>
     </tr>
 </table>
-
-
-
-
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300"  alt=""/>
-</p>
 
 
 
