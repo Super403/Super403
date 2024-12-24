@@ -11,7 +11,7 @@
 # 研发项目
 - [x] **[安服平台](https://github.com/super403)**  | 优化中未发布-安服平台
 - [x] **[Github监控](https://github.com/super403)**  | 优化中未发布-Github监控
-- [x] **[桌面快捷启动GUI](https://github.com/super403)**  | 预发布-桌面快捷启动GUI
+- [x] **[SuperGUI](https://github.com/super403/SuperGUI)**  | 预发布-一个适用于网络安全从业者的GUI工具箱
 
 ## 研发中
 - [ ] **[自研漏扫](https://github.com/super403)**  | 未发布-研发中进度30%-自研漏扫
