@@ -8,7 +8,7 @@
 - 👋 分享优质笔记, 以及我自己做的一些安全相关的工具
 ### 发布项目
 - [x] **[SuperGUI](https://github.com/super403/SuperGUI)**  | 适用于网络安全从业者的GUI工具箱
-- [x] **[安服提升计划与工作总结文档](https://github.com/Super403/Improvement-Plan)**  | 安全服务(安服)工作总结报告模板，
+- [x] **[安服提升计划与工作总结文档](https://github.com/Super403/Improvement-Plan)**  | 安全服务(安服)工作总结报告模板
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,linux,docker,html,js,mysql,ps,vue)](https://skillicons.dev)
